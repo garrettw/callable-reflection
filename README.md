@@ -1,10 +1,10 @@
-![Status][badge]
-
 # Technically Callable Reflection
 
 `Technically\CallableReflection` is a handy library to simplify reflecting any `callable`.
 It provides a unified interface for reading callable arguments seamlessly supporting PHP8 union types.
 It also lets you to easily invoke a callable with `call()` and `apply()` supporting named parameters.
+
+![Status][badge]
 
 ## Features
 
